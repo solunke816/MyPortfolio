@@ -46,4 +46,4 @@ This repository is intended for:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/opencart-test-cases.git
+   git clone https://github.com/solunke816/opencart-test-cases.git
