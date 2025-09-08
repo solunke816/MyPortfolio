@@ -36,7 +36,7 @@ _**Tech Used:** Selenium, Postman, TestNG, MySQL, Chrome_
 
 ---
 
-### 🛍️ OpenCart E-Commerce Testing Project  
+### 🛍️OpenCart E-Commerce Website Testing  
 *Sep 2023 – Nov 2023 | JIRA, Excel, Chrome DevTools*  
 - Designed manual test cases for core modules (Registration, Login, Checkout, Cart, Wishlist, Payments).  
 - Validated functional, UI, and usability requirements.  
